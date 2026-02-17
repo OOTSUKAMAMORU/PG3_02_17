@@ -70,8 +70,10 @@ int main() {
         {
             // ‚»‚ÌŸ‚ÌˆÊ’u‚ÉˆÚ“®‚µ‚Ä
             ++it;
+            
             // ‘}“ü
             lst2022.insert(it, "Takanawa Gateway");
+            
             // ˆ—‚ğI—¹
             break;
         }
